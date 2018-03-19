@@ -6,3 +6,4 @@ Check out the example below for formatting guidelines.
 * [Go Project](https://github.com/Chr1sL/Go-programming) by Christie Lum and Raffa Gonzalez.
 * [Ruby Project](https://github.com/sammypuckett/ruby-string-program) by Alex Southwick and Sammy Puckett
 * [Python Project](https://github.com/samafine1/python/blob/master/StringProgram.python.py) by Sam Fine
+* [Swift Project](https://github.com/thetrustedwizard/SwiftLangProject/blob/master/sentencechanger.swift) by Connor Nakamura and Nathan Ho
