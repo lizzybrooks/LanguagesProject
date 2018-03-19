@@ -7,4 +7,5 @@ Check out the example below for formatting guidelines.
 * [Golang Project](https://github.com/jakelamjakelam/GolangProject) by Jake Lam and Gabriel Juarez
 * [Python Project](https://github.com/samafine1/python/blob/master/StringProgram.python.py) by Sam Fine
 * [Swift Project](https://github.com/thetrustedwizard/SwiftLangProject/blob/master/sentencechanger.swift) by Connor Nakamura and Nathan Ho
+* [Ruby Project](https://github.com/0AYU0/Kevin-and-Alex-Ruby) by Alexander Yu and Kevin Lin
 
